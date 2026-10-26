@@ -2,7 +2,7 @@
 
 - **Status**: Stable / Standard
 - **Version**: 1.0.0
-- **Author**: AIEN <aien.atlas@proton.me>
+- **Author**: AIEN <aien@aienos.com>
 - **Published**: September 2026
 
 ---
