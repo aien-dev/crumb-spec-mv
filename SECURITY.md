@@ -16,4 +16,4 @@ Crumbs (`.crumb` and `.crumb.local`) exist exclusively for architectural topolog
 ## 3. Reporting Vulnerabilities
 
 If you discover a security issue or vulnerability in the Crumb specification or reference implementations, please report it privately to:
-`AIEN <aien.atlas@proton.me>`
+`AIEN <aien@aienos.com>`
